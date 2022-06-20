@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/xst"
+elaborate
+-ifn ALU_4BITS.prj
+-ifmt mixed

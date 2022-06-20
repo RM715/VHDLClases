@@ -1,0 +1,29 @@
+V3 12
+FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU8_BITS.vhd" 2022/06/18.23:55:13 P.20131013
+EN work/ALU8_BITS 1655692784 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU8_BITS.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ALU8_BITS/RTL 1655692785 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU8_BITS.vhd" \
+      EN work/ALU8_BITS 1655692784
+FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU_4BITS.vhd" 2022/06/19.21:55:30 P.20131013
+EN work/ALU_4BITS 1655694948 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU_4BITS.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ALU_4BITS/Behavioral 1655694949 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU_4BITS.vhd" \
+      EN work/ALU_4BITS 1655694948
+FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ert.vhd" 2022/06/19.22:15:42 P.20131013
+EN work/MemoriaROM 1655694944 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ert.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaROM/arq 1655694945 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ert.vhd" \
+      EN work/MemoriaROM 1655694944
+FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/sas.vhd" 2022/06/19.22:14:29 P.20131013
+EN work/MemoriaRAM 1655694946 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/sas.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/MemoriaRAM/arq 1655694947 \
+      FL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/sas.vhd" \
+      EN work/MemoriaRAM 1655694946

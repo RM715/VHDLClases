@@ -1,0 +1,8 @@
+AR alu_4bits behavioral "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU_4BITS.vhd" sub00/vhpl03 1655694949
+AR alu8_bits rtl "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU8_BITS.vhd" sub00/vhpl01 1655692785
+EN memoriarom NULL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ert.vhd" sub00/vhpl06 1655694944
+EN alu8_bits NULL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU8_BITS.vhd" sub00/vhpl00 1655692784
+AR memoriarom arq "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ert.vhd" sub00/vhpl07 1655694945
+EN alu_4bits NULL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/ALU_4BITS.vhd" sub00/vhpl02 1655694948
+AR memoriaram arq "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/sas.vhd" sub00/vhpl05 1655694947
+EN memoriaram NULL "C:/Users/Joan/Desktop/ISE PROYECT/Ejercicios/sas.vhd" sub00/vhpl04 1655694946
